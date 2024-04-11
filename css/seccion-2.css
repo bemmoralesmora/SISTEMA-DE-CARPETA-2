@@ -1,0 +1,78 @@
+.seccion-2{
+    width: 1440px;
+    height: 630px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro-scc2{
+    width: 1440px;
+    height: 390px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro2-scc2{
+    width: 1088px;
+    height: 300px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro3-scc2{
+    width: 1040px;
+    height: 300;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cuadro4-scc2{
+    width: 504.78px;
+    height: 259px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.titulo-scc2{
+    width: 550px;
+    height: 61px;
+
+    font-size: 56px;
+    font-weight: 500;
+
+}
+
+.parrafo-scc2{
+    width: 470.52px;
+    height: 90.5px;
+
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.cuadro-morado-scc2{
+    width: 182px;
+    height: 52.5px;
+
+    border-radius: 20px;
+    background-color: rgba(118, 34, 215, 1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}

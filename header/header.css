@@ -1,0 +1,306 @@
+.seccion-1{
+    width: 1440px;
+    height: 263.5px;
+}
+
+.rectangulos-1{
+    width: 1440px ;
+    height: 64.5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.texto-scc1{
+    width: 1380.83px;
+    height: 32.5px;
+    padding: 3.5px 0px 3.5px 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    font-size: 15px;
+    font-weight: 400;
+
+}
+
+.cerrar-scc1{
+    width: 59.17px;
+    height: 32.5px;
+    padding: 0px 10px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.rectangulos-2{
+    width: 1440px;
+    height: 74px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.contenedor-rec2{
+    width: 1088px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.text-rec2{
+    width: 980px;
+    height: 34px;
+    padding: 0px 269.64px 0px 269.64px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contenedor-text{
+    width: 442px;
+    height: 34px;
+    gap: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tex-1{
+    width: 248px;
+    height: 24.5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.tex-2{
+    width: 194px;
+    height: 34px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 14px;
+    font-weight: 400;
+}
+.cerrar-rec2{
+    width: 60px;
+    height: 32.5px;
+    padding: 0px, 30px, 8.5px, 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.rectangulos-3{
+    width: 1440px;
+    height: 41px;
+
+}
+
+.contenedor-rec3{
+    width: 1296px;
+    height: 40px;
+    padding: 8px 16px 12px 16px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cont-icons{
+    width: 1264px;
+    height: 34px;
+    padding: 0px 0px 0px 1,034.22px;
+    gap: 32px;
+
+    display: flex;
+    align-items: start;
+    justify-content: end;
+
+}
+
+.search-rec3{
+    width: 56px;
+    height: 34px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.support-rec3{
+    width: 44px;
+    height: 34px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.supoort-rec3 span{
+    width: 18px;
+    height: 14px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nombre-rec3{
+    width: 44px;
+    height: 20px;
+
+}
+
+.login-rec3{
+    width: 31px;
+    height: 34px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.login-rec3 span{
+    width: 18px;
+    height: 14px;
+}
+
+.nombre-rec3-1{
+    width: 44px;
+    height: 20px;
+
+    margin-left: 20px;
+}
+
+.rectangulos-4{
+    width: 1440px;
+    height: 74px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-rec4{
+    width: 1296px;
+    height: 40.5px;
+
+    display: flex;
+    gap: 20px;
+
+}
+
+.logo-rec4{
+    width: 200px;
+    height: 40px;
+
+    display: flex;
+    object-fit: cover;
+}
+
+.menu-rec4{
+    width: 669px;
+    height: 40px;
+    padding: 8px 72px 8px 0px;
+
+}
+
+.list-rec4{
+    width: 650px;
+    height: 24.5px;
+    gap: 24px;
+    display: flex;
+
+}
+
+.list-1{
+    width: 87px;
+    height: 24.5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.demo-rec4{
+    width: 403px;
+    height: 40.5px;
+    gap: 12px;
+
+    display: flex;
+}
+
+.cuadros-radio-rec4{
+    width: 205px;
+    height: 40.5px;
+
+    border-radius: 20px;
+    border: 1px solid black;
+
+    font-size: 16px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cuadros2-radio-rec4{
+    width: 205px;
+    height: 40.5px;
+
+    border-radius: 20px;
+    background-color: rgba(118, 34, 215, 1);
+
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
